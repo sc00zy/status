@@ -4,19 +4,19 @@
     "url": "https://welldotcom.nl",
     "icon": "https://icons.duckduckgo.com/ip3/welldotcom.nl.ico",
     "slug": "welldotcom-website",
-    "status": "down",
-    "uptime": "2.71%",
-    "uptimeDay": "2.71%",
-    "uptimeWeek": "2.71%",
-    "uptimeMonth": "2.71%",
-    "uptimeYear": "2.71%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
+    "time": 1420,
+    "timeDay": 1420,
+    "timeWeek": 1420,
+    "timeMonth": 1420,
+    "timeYear": 1420,
     "dailyMinutesDown": {
-      "2026-10-21": 10
+      "2026-10-21": 298
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://d-wdcom1.host-ed.eu:8443",
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom1.host-ed.eu.ico",
     "slug": "server-d-wdcom-1",
-    "status": "down",
-    "uptime": "2.15%",
-    "uptimeDay": "2.15%",
-    "uptimeWeek": "2.15%",
-    "uptimeMonth": "2.15%",
-    "uptimeYear": "2.15%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
+    "time": 1208,
+    "timeDay": 1208,
+    "timeWeek": 1208,
+    "timeMonth": 1208,
+    "timeYear": 1208,
     "dailyMinutesDown": {
-      "2026-10-21": 10
+      "2026-10-21": 297
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://d-wdcom2.host-ed.eu:8443",
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom2.host-ed.eu.ico",
     "slug": "server-d-wdcom-2",
-    "status": "down",
-    "uptime": "2.01%",
-    "uptimeDay": "2.01%",
-    "uptimeWeek": "2.01%",
-    "uptimeMonth": "2.01%",
-    "uptimeYear": "2.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 1266,
+    "timeDay": 1266,
+    "timeWeek": 1266,
+    "timeMonth": 1266,
+    "timeYear": 1266,
     "dailyMinutesDown": {
-      "2026-10-21": 10
+      "2026-10-21": 297
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://d-wdcom3.host-ed.eu:8443",
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom3.host-ed.eu.ico",
     "slug": "server-d-wdcom-3",
-    "status": "down",
-    "uptime": "2.02%",
-    "uptimeDay": "2.02%",
-    "uptimeWeek": "2.02%",
-    "uptimeMonth": "2.02%",
-    "uptimeYear": "2.02%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
+    "time": 1263,
+    "timeDay": 1263,
+    "timeWeek": 1263,
+    "timeMonth": 1263,
+    "timeYear": 1263,
     "dailyMinutesDown": {
-      "2026-10-21": 10
+      "2026-10-21": 297
     }
   }
 ]
