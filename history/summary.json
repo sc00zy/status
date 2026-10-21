@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/welldotcom.nl.ico",
     "slug": "welldotcom-website",
     "status": "down",
-    "uptime": "25.13%",
-    "uptimeDay": "25.13%",
-    "uptimeWeek": "25.13%",
-    "uptimeMonth": "25.13%",
-    "uptimeYear": "25.13%",
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1
+      "2026-10-21": 10
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom1.host-ed.eu.ico",
     "slug": "server-d-wdcom-1",
     "status": "down",
-    "uptime": "24.64%",
-    "uptimeDay": "24.64%",
-    "uptimeWeek": "24.64%",
-    "uptimeMonth": "24.64%",
-    "uptimeYear": "24.64%",
+    "uptime": "2.15%",
+    "uptimeDay": "2.15%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "2.15%",
+    "uptimeYear": "2.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 1
+      "2026-10-21": 10
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom2.host-ed.eu.ico",
     "slug": "server-d-wdcom-2",
     "status": "down",
-    "uptime": "33.80%",
-    "uptimeDay": "33.80%",
-    "uptimeWeek": "33.80%",
-    "uptimeMonth": "33.80%",
-    "uptimeYear": "33.80%",
+    "uptime": "2.01%",
+    "uptimeDay": "2.01%",
+    "uptimeWeek": "2.01%",
+    "uptimeMonth": "2.01%",
+    "uptimeYear": "2.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 0
+      "2026-10-21": 10
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom3.host-ed.eu.ico",
     "slug": "server-d-wdcom-3",
     "status": "down",
-    "uptime": "53.14%",
-    "uptimeDay": "53.14%",
-    "uptimeWeek": "53.14%",
-    "uptimeMonth": "53.14%",
-    "uptimeYear": "53.14%",
+    "uptime": "2.02%",
+    "uptimeDay": "2.02%",
+    "uptimeWeek": "2.02%",
+    "uptimeMonth": "2.02%",
+    "uptimeYear": "2.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-21": 0
+      "2026-10-21": 10
     }
   }
 ]
