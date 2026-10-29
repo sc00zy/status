@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/welldotcom.nl.ico",
     "slug": "welldotcom-website",
     "status": "down",
-    "uptime": "95.89%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "95.89%",
-    "uptimeYear": "95.89%",
+    "uptime": "95.34%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "95.34%",
     "time": 2370,
     "timeDay": 2231,
     "timeWeek": 2574,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2026-10-21": 298,
       "2026-10-23": 138,
-      "2026-10-29": 15
+      "2026-10-29": 78
     }
   },
   {
@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom1.host-ed.eu.ico",
     "slug": "server-d-wdcom-1",
     "status": "down",
-    "uptime": "95.98%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "95.98%",
+    "uptime": "95.43%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "95.43%",
     "time": 1790,
     "timeDay": 1624,
     "timeWeek": 1842,
@@ -40,7 +40,7 @@
     "dailyMinutesDown": {
       "2026-10-21": 297,
       "2026-10-23": 133,
-      "2026-10-29": 10
+      "2026-10-29": 73
     }
   },
   {
@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom2.host-ed.eu.ico",
     "slug": "server-d-wdcom-2",
     "status": "down",
-    "uptime": "96.07%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
+    "uptime": "95.52%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "95.52%",
     "time": 1685,
     "timeDay": 1560,
     "timeWeek": 1696,
@@ -62,7 +62,7 @@
     "dailyMinutesDown": {
       "2026-10-21": 297,
       "2026-10-23": 129,
-      "2026-10-29": 5
+      "2026-10-29": 68
     }
   },
   {
@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/d-wdcom3.host-ed.eu.ico",
     "slug": "server-d-wdcom-3",
     "status": "down",
-    "uptime": "96.16%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "96.16%",
+    "uptime": "95.60%",
+    "uptimeDay": "95.59%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "95.60%",
+    "uptimeYear": "95.60%",
     "time": 1741,
     "timeDay": 1886,
     "timeWeek": 1773,
@@ -83,7 +83,8 @@
     "timeYear": 1741,
     "dailyMinutesDown": {
       "2026-10-21": 297,
-      "2026-10-23": 124
+      "2026-10-23": 124,
+      "2026-10-29": 63
     }
   }
 ]
